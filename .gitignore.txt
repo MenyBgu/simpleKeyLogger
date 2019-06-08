@@ -1,4 +1,4 @@
-log.txt/
-targetver.h/
-stdafx.h/
-stdafx.cpp/
+/log.txt
+/targetver.h
+/stdafx.h
+/stdafx.cpp
