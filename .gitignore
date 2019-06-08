@@ -1,7 +1,7 @@
-/Debug/
-/x64/
-/log.txt/
-/stdafx.cpp/
-/stdafx.h/
-/targetver.h/
-/hi/
+*Debug*
+*x64*
+*log.txt*
+*stdafx.cpp*
+*stdafx.h*
+*targetver.h*
+*hi*
