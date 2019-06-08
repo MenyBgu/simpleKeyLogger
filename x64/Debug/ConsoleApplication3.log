@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ConsoleApplication3.cpp
+c:\users\meni\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(71): warning C4715: 'check_keys': not all control paths return a value
+  ConsoleApplication3.vcxproj -> c:\users\meni\documents\visual studio 2015\Projects\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> c:\users\meni\documents\visual studio 2015\Projects\ConsoleApplication3\x64\Debug\ConsoleApplication3.pdb (Full PDB)
