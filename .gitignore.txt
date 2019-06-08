@@ -1,0 +1,4 @@
+log.txt/
+targetver.h/
+stdafx.h/
+stdafx.cpp/
