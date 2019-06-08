@@ -1,4 +1,6 @@
-/log.txt
-/targetver.h
-/stdafx.h
-/stdafx.cpp
+/Debug/
+/x64/
+/log.txt/
+/stdafx.cpp/
+/stdafx.h/
+/targetver.h/
